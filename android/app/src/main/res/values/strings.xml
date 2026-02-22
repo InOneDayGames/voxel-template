@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VoxelTemplate</string>
+    <string name="title_activity_main">VoxelTemplate</string>
+    <string name="package_name">com.tom.voxeltemplate</string>
+    <string name="custom_url_scheme">com.tom.voxeltemplate</string>
+</resources>
